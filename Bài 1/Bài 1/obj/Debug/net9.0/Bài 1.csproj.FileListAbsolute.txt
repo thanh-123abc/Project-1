@@ -1,0 +1,15 @@
+D:\PC Control\C#\Bài 1\Project-1\Bài 1\Bài 1\bin\Debug\net9.0\Bài 1.exe
+D:\PC Control\C#\Bài 1\Project-1\Bài 1\Bài 1\bin\Debug\net9.0\Bài 1.deps.json
+D:\PC Control\C#\Bài 1\Project-1\Bài 1\Bài 1\bin\Debug\net9.0\Bài 1.runtimeconfig.json
+D:\PC Control\C#\Bài 1\Project-1\Bài 1\Bài 1\bin\Debug\net9.0\Bài 1.dll
+D:\PC Control\C#\Bài 1\Project-1\Bài 1\Bài 1\bin\Debug\net9.0\Bài 1.pdb
+D:\PC Control\C#\Bài 1\Project-1\Bài 1\Bài 1\obj\Debug\net9.0\Bài 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC Control\C#\Bài 1\Project-1\Bài 1\Bài 1\obj\Debug\net9.0\Bài 1.AssemblyInfoInputs.cache
+D:\PC Control\C#\Bài 1\Project-1\Bài 1\Bài 1\obj\Debug\net9.0\Bài 1.AssemblyInfo.cs
+D:\PC Control\C#\Bài 1\Project-1\Bài 1\Bài 1\obj\Debug\net9.0\Bài 1.csproj.CoreCompileInputs.cache
+D:\PC Control\C#\Bài 1\Project-1\Bài 1\Bài 1\obj\Debug\net9.0\Bài 1.sourcelink.json
+D:\PC Control\C#\Bài 1\Project-1\Bài 1\Bài 1\obj\Debug\net9.0\Bài 1.dll
+D:\PC Control\C#\Bài 1\Project-1\Bài 1\Bài 1\obj\Debug\net9.0\refint\Bài 1.dll
+D:\PC Control\C#\Bài 1\Project-1\Bài 1\Bài 1\obj\Debug\net9.0\Bài 1.pdb
+D:\PC Control\C#\Bài 1\Project-1\Bài 1\Bài 1\obj\Debug\net9.0\Bài 1.genruntimeconfig.cache
+D:\PC Control\C#\Bài 1\Project-1\Bài 1\Bài 1\obj\Debug\net9.0\ref\Bài 1.dll
