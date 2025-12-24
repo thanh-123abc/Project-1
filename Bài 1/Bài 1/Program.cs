@@ -45,6 +45,13 @@ namespace Bài_1
             Console.WriteLine("Vat: " + TaxAmount + "d");
             Console.WriteLine("Tổng số tiền cần thanh toán: " + TotalAmount + "d");
 
+            //AssemblyLoadEventArgsa
+            //    a
+            //    a
+            //    a
+            //    a
+            //    a
+
 
          //Câu 4:
 
