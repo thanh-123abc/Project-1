@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PC Control\\C#\\B\u00E0i 1\\Project-1\\BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B860354A-6CB9-462E-AF11-E9B7871A2206}|\u0110\u1EC1 4\\\u0110\u1EC1 4.csproj|d:\\pc control\\c#\\b\u00E0i 1\\project-1\\btvn-bai3-pc10-nguy\u1EC5n v\u0103n thanh\\btvn-bai3-pc10-nguy\u1EC5n v\u0103n thanh\\\u0111\u1EC1 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B860354A-6CB9-462E-AF11-E9B7871A2206}|\u0110\u1EC1 4\\\u0110\u1EC1 4.csproj|solutionrelative:\u0111\u1EC1 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBED923-F9E4-4A14-81D7-4A18C9E30F2F}|\u0110\u1EC1 3\\\u0110\u1EC1 3.csproj|d:\\pc control\\c#\\b\u00E0i 1\\project-1\\btvn-bai3-pc10-nguy\u1EC5n v\u0103n thanh\\btvn-bai3-pc10-nguy\u1EC5n v\u0103n thanh\\\u0111\u1EC1 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBED923-F9E4-4A14-81D7-4A18C9E30F2F}|\u0110\u1EC1 3\\\u0110\u1EC1 3.csproj|solutionrelative:\u0111\u1EC1 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E69112-EEBA-44D1-81DB-B81AD751221D}|\u0110\u1EC1 2\\\u0110\u1EC1 2.csproj|d:\\pc control\\c#\\b\u00E0i 1\\project-1\\btvn-bai3-pc10-nguy\u1EC5n v\u0103n thanh\\btvn-bai3-pc10-nguy\u1EC5n v\u0103n thanh\\\u0111\u1EC1 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E69112-EEBA-44D1-81DB-B81AD751221D}|\u0110\u1EC1 2\\\u0110\u1EC1 2.csproj|solutionrelative:\u0111\u1EC1 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B712591-E2D8-4FBC-B4AC-06FA7AC9EABD}|BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\\u0110\u1EC1 1.csproj|d:\\pc control\\c#\\b\u00E0i 1\\project-1\\btvn-bai3-pc10-nguy\u1EC5n v\u0103n thanh\\btvn-bai3-pc10-nguy\u1EC5n v\u0103n thanh\\btvn-bai3-pc10-nguy\u1EC5n v\u0103n thanh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B712591-E2D8-4FBC-B4AC-06FA7AC9EABD}|BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\\u0110\u1EC1 1.csproj|solutionrelative:btvn-bai3-pc10-nguy\u1EC5n v\u0103n thanh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B712591-E2D8-4FBC-B4AC-06FA7AC9EABD}|BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\\u0110\u1EC1 1.csproj|d:\\pc control\\c#\\b\u00E0i 1\\project-1\\btvn-bai3-pc10-nguy\u1EC5n v\u0103n thanh\\btvn-bai3-pc10-nguy\u1EC5n v\u0103n thanh\\btvn-bai3-pc10-nguy\u1EC5n v\u0103n thanh\\\u0111\u1EC1 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B712591-E2D8-4FBC-B4AC-06FA7AC9EABD}|BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\\u0110\u1EC1 1.csproj|solutionrelative:btvn-bai3-pc10-nguy\u1EC5n v\u0103n thanh\\\u0111\u1EC1 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 107,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\u0110\u1EC1 1.csproj",
+              "DocumentMoniker": "D:\\PC Control\\C#\\B\u00E0i 1\\Project-1\\BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\\u0110\u1EC1 1.csproj",
+              "RelativeDocumentMoniker": "BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\\u0110\u1EC1 1.csproj",
+              "ToolTip": "D:\\PC Control\\C#\\B\u00E0i 1\\Project-1\\BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\\u0110\u1EC1 1.csproj",
+              "RelativeToolTip": "BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\\u0110\u1EC1 1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-28T04:34:09.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PC Control\\C#\\B\u00E0i 1\\Project-1\\BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\\u0110\u1EC1 4\\Program.cs",
+              "RelativeDocumentMoniker": "\u0110\u1EC1 4\\Program.cs",
+              "ToolTip": "D:\\PC Control\\C#\\B\u00E0i 1\\Project-1\\BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\\u0110\u1EC1 4\\Program.cs",
+              "RelativeToolTip": "\u0110\u1EC1 4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T04:27:05.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PC Control\\C#\\B\u00E0i 1\\Project-1\\BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\\u0110\u1EC1 3\\Program.cs",
+              "RelativeDocumentMoniker": "\u0110\u1EC1 3\\Program.cs",
+              "ToolTip": "D:\\PC Control\\C#\\B\u00E0i 1\\Project-1\\BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\\u0110\u1EC1 3\\Program.cs",
+              "RelativeToolTip": "\u0110\u1EC1 3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T14:48:25.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PC Control\\C#\\B\u00E0i 1\\Project-1\\BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\\u0110\u1EC1 2\\Program.cs",
+              "RelativeDocumentMoniker": "\u0110\u1EC1 2\\Program.cs",
+              "ToolTip": "D:\\PC Control\\C#\\B\u00E0i 1\\Project-1\\BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\\u0110\u1EC1 2\\Program.cs",
+              "RelativeToolTip": "\u0110\u1EC1 2\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwEYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T13:48:52.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PC Control\\C#\\B\u00E0i 1\\Project-1\\BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\Program.cs",
+              "RelativeDocumentMoniker": "BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\Program.cs",
+              "ToolTip": "D:\\PC Control\\C#\\B\u00E0i 1\\Project-1\\BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\Program.cs",
+              "RelativeToolTip": "BTVN-Bai3-PC10-nguy\u1EC5n v\u0103n thanh\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T14:39:59.953Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
