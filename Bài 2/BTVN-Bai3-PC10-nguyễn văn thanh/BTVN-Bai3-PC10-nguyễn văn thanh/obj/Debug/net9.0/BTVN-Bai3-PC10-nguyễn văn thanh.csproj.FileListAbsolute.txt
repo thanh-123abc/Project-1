@@ -1,0 +1,15 @@
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\BTVN-Bai3-PC10-nguyễn văn thanh\bin\Debug\net9.0\BTVN-Bai3-PC10-nguyễn văn thanh.exe
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\BTVN-Bai3-PC10-nguyễn văn thanh\bin\Debug\net9.0\BTVN-Bai3-PC10-nguyễn văn thanh.deps.json
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\BTVN-Bai3-PC10-nguyễn văn thanh\bin\Debug\net9.0\BTVN-Bai3-PC10-nguyễn văn thanh.runtimeconfig.json
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\BTVN-Bai3-PC10-nguyễn văn thanh\bin\Debug\net9.0\BTVN-Bai3-PC10-nguyễn văn thanh.dll
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\BTVN-Bai3-PC10-nguyễn văn thanh\bin\Debug\net9.0\BTVN-Bai3-PC10-nguyễn văn thanh.pdb
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\BTVN-Bai3-PC10-nguyễn văn thanh\obj\Debug\net9.0\BTVN-Bai3-PC10-nguyễn văn thanh.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\BTVN-Bai3-PC10-nguyễn văn thanh\obj\Debug\net9.0\BTVN-Bai3-PC10-nguyễn văn thanh.AssemblyInfoInputs.cache
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\BTVN-Bai3-PC10-nguyễn văn thanh\obj\Debug\net9.0\BTVN-Bai3-PC10-nguyễn văn thanh.AssemblyInfo.cs
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\BTVN-Bai3-PC10-nguyễn văn thanh\obj\Debug\net9.0\BTVN-Bai3-PC10-nguyễn văn thanh.csproj.CoreCompileInputs.cache
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\BTVN-Bai3-PC10-nguyễn văn thanh\obj\Debug\net9.0\BTVN-Bai3-PC10-nguyễn văn thanh.sourcelink.json
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\BTVN-Bai3-PC10-nguyễn văn thanh\obj\Debug\net9.0\BTVN-Bai3-PC10-nguyễn văn thanh.dll
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\BTVN-Bai3-PC10-nguyễn văn thanh\obj\Debug\net9.0\refint\BTVN-Bai3-PC10-nguyễn văn thanh.dll
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\BTVN-Bai3-PC10-nguyễn văn thanh\obj\Debug\net9.0\BTVN-Bai3-PC10-nguyễn văn thanh.pdb
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\BTVN-Bai3-PC10-nguyễn văn thanh\obj\Debug\net9.0\BTVN-Bai3-PC10-nguyễn văn thanh.genruntimeconfig.cache
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\BTVN-Bai3-PC10-nguyễn văn thanh\obj\Debug\net9.0\ref\BTVN-Bai3-PC10-nguyễn văn thanh.dll

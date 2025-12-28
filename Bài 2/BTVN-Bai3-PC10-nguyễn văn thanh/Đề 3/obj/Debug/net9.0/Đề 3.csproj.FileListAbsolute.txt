@@ -1,0 +1,15 @@
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\Đề 3\bin\Debug\net9.0\Đề 3.exe
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\Đề 3\bin\Debug\net9.0\Đề 3.deps.json
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\Đề 3\bin\Debug\net9.0\Đề 3.runtimeconfig.json
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\Đề 3\bin\Debug\net9.0\Đề 3.dll
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\Đề 3\bin\Debug\net9.0\Đề 3.pdb
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\Đề 3\obj\Debug\net9.0\Đề 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\Đề 3\obj\Debug\net9.0\Đề 3.AssemblyInfoInputs.cache
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\Đề 3\obj\Debug\net9.0\Đề 3.AssemblyInfo.cs
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\Đề 3\obj\Debug\net9.0\Đề 3.csproj.CoreCompileInputs.cache
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\Đề 3\obj\Debug\net9.0\Đề 3.sourcelink.json
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\Đề 3\obj\Debug\net9.0\Đề 3.dll
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\Đề 3\obj\Debug\net9.0\refint\Đề 3.dll
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\Đề 3\obj\Debug\net9.0\Đề 3.pdb
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\Đề 3\obj\Debug\net9.0\Đề 3.genruntimeconfig.cache
+D:\PC Control\C#\Bài 1\Project-1\Bài 2\BTVN-Bai3-PC10-nguyễn văn thanh\Đề 3\obj\Debug\net9.0\ref\Đề 3.dll
